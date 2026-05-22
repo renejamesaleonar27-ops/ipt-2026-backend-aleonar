@@ -15,4 +15,3 @@ router.use('/', swaggerUi.serve, swaggerUi.setup(swaggerDocument, {
 }));
 
 export default router;
-unpkg.com
